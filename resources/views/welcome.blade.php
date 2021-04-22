@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,10 +7,9 @@
     <title>Welcome</title>
 </head>
 <body>
+    <h1></h1>
     <div>
     
     </div>
 </body>
 </html>
-=======
->>>>>>> 1e865dcb5d1ecb7240c57bd65a523985114b5fbc
