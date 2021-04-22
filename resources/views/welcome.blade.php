@@ -1,14 +1,18 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Welcome</title>
-</head>
-<body>
-    <h1></h1>
-    <div>
-    </div>
-</body>
-</html>
+@extends('layouts.app')
+@section('content')
+    @include('partials.navigation')
+    @include('partials.header')
+    @include('partials.service')
+    @include('partials.portofolio')
+    @include('partials.about')
+    @include('partials.team')
+    @include('partials.clients')
+    @include('partials.contact')
+    @include('partials.footer')
+    @include('partials.modal1')
+    @include('partials.modal2')
+    @include('partials.modal3')
+    @include('partials.modal4')
+    @include('partials.modal5')
+    @include('partials.modal6')
+@endsection
