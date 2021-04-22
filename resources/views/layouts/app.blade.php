@@ -24,13 +24,6 @@
     <!-- Bootstrap core JavaScript -->
 
   <!-- Plugin JavaScript -->
-  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
-
-  <!-- Contact form JavaScript -->
-  <script src="js/jqBootstrapValidation.js"></script>
-  <script src="js/contact_me.js"></script>
-
-  <!-- Custom scripts for this template -->
-  <script src="js/app.min.js"></script>
+  <script src={{asset('js/app.js')}}></script>
 </body>
 </html>
