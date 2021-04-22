@@ -1,8 +1,6 @@
 // Fonts
 @import url('https://fonts.googleapis.com/css?family=Nunito');
 
-// Bootstrap
-@import '~bootstrap/scss/bootstrap';
 
 // Core variables and mixins
 @import "./base/variables.scss";
@@ -24,3 +22,5 @@
 @import "layout/footer.scss";
 @import "layout/masthead.scss";
 
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
