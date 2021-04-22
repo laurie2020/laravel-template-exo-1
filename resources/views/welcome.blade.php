@@ -16,3 +16,4 @@
     @include('partials.modal5')
     @include('partials.modal6')
 @endsection
+
