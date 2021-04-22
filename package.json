@@ -23,8 +23,8 @@
         "sass-loader": "^8.0.0"
     },
     "dependencies": {
-        "@popperjs/core": "^2.9.2",
         "@fortawesome/fontawesome-free": "5.10.2",
+        "@popperjs/core": "^2.9.2",
         "jquery-easing": "0.0.1",
         "jquery.easing": "^1.4.1"
     }

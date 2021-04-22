@@ -1,4 +1,6 @@
 require('./bootstrap');
-require('./agency.js')
-require('./contact_me.js')
-require('./jqBootstrapValidation.js')
+require('jquery/dist/jquery');
+require('jquery.easing/jquery.easing');
+require('./agency.js');
+require('./contact_me.js');
+require('./jqBootstrapValidation.js');
